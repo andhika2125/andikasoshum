@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JJS Nature</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>JJS Nature</h1>
+    <p>Jalan–Jalan Santai dekat alam 🌿</p>
+</header>
+
+<section class="card-wrap">
+    <div class="card">
+        <h3>Hutan Pinus</h3>
+        <p>Udara segar & suasana tenang.</p>
+    </div>
+    <div class="card">
+        <h3>Air Terjun</h3>
+        <p>Titik relaksasi terbaik untuk liburan.</p>
+    </div>
+    <div class="card">
+        <h3>Danau Alami</h3>
+        <p>Spot favorit untuk foto.</p>
+    </div>
+</section>
+
+<footer>
+    © 2025 JJS Nature
+</footer>
+
+</body>
+</html>
